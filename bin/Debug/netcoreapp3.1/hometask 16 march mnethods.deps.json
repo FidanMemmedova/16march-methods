@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "hometask 16 march mnethods/1.0.0": {
+        "runtime": {
+          "hometask 16 march mnethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hometask 16 march mnethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

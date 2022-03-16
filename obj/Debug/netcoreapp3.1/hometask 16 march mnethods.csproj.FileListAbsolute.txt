@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.exe
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.deps.json
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.runtimeconfig.json
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.dll
+C:\Users\Asus\Desktop\hometask 16 march mnethods\bin\Debug\netcoreapp3.1\hometask 16 march mnethods.pdb
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.AssemblyInfo.cs
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.dll
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.pdb
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.genruntimeconfig.cache
+C:\Users\Asus\Desktop\hometask 16 march mnethods\obj\Debug\netcoreapp3.1\hometask 16 march mnethods.csproj.AssemblyReference.cache
